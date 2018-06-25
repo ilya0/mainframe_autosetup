@@ -31,16 +31,6 @@ Paste this script into a Terminal prompt:
 bash <(curl -sL https://raw.githubusercontent.com/ilya0/maininstall)
 ```
 
-##### ~~For Ubuntu Linux~~
-
-~~Paste this script into a Terminal prompt:~~
-
-~~`bash <(wget -qO- https://raw.githubusercontent.com/GA-WDI/installfest/master/builds/ubuntu)`~~
-
-*Sadly, the Ubuntu script is out of date and is not currently 
-supported. If you'd like to help get it back in to working order, let us
-know!*
-
 ##### Run the script
 
 Follow the instructions! **Note: it is helpful to increase the size of the 
