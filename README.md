@@ -28,7 +28,7 @@ have multiple users, let the instructors know!
 Paste this script into a Terminal prompt:
 
 ```
-bash <(curl -sL https://raw.githubusercontent.com/ilya0/maininstall)
+bash <(curl -sL https://raw.githubusercontent.com/ilya0/mainframe_autosetup/master/main)
 ```
 
 ##### Run the script
