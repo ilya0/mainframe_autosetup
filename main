@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo "test"
-
+echo "updated"
 
 #-------------------------------------------------------------------------------
 # We begin! (utils/script_instructions.sh)
@@ -14,3 +14,20 @@ show "${BOLD}computer's password. ${RESET}"
 show ""
 show "This script will install, update, and configure files and "
 show "applications that you will use in class."
+
+
+
+#things that need to be installed
+
+# for oracle demo
+#github
+#code folder
+#gitkraken
+
+#additional
+#macdown
+#auto filler
+#ms code or sublime
+#
+#
+#
